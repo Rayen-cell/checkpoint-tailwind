@@ -1,0 +1,27 @@
+.sport {
+    width: 30%;
+}
+.biography{
+    margin-left: 30%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.fitness{
+    margin-bottom: 5%;
+}
+.polyvalence{
+    margin-left: 30%;
+    
+}
+.fitness{
+    margin-bottom: 10%;
+}
+
+.activity {
+    display: flex;
+    margin: 5% 5%;
+}
+.lien{
+    display: flex;
+    margin: 5% 5%;
+}
